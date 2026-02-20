@@ -1,0 +1,2 @@
+# Placeholder for assets
+This directory should contain the images used in the app for offline support.
