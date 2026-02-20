@@ -1,0 +1,5 @@
+{
+  "name": "سوق المعدات والعقارات | Equipment & Real Estate Market",
+  "description": "منصة متكاملة لبيع وشراء العقارات، المصانع، المعدات الثقيلة، والسيارات مع ميزات الذكاء الاصطناعي المتقدمة.",
+  "requestFramePermissions": ["camera", "microphone"]
+}
